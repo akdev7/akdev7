@@ -1,1 +1,3 @@
-<embed src="http://www.example.com" style="width:500px; height: 300px;">
+<iframe src="https://example.com" width="100%" height="300">
+  <p>Your browser does not support iframes.</p>
+</iframe>
